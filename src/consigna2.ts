@@ -3,4 +3,4 @@ function updateStock(currenStock: number, quantityChange: number): number {
 }
 
 const updatedStock = updateStock(2, 4)
-console.log(updatedStock);
+console.log(updatedStock)
