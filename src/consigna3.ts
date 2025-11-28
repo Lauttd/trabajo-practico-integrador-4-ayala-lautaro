@@ -21,4 +21,4 @@ function logMessage(level: logLevel, message: string): void{
 
 logMessage(logLevel.Info, "Mensaje informativo");
 logMessage(logLevel.Warning, "Mensaje de advertencia");
-logMessage(logLevel.Error, "Mensaje de Error");
+logMessage(logLevel.Error, "Mensaje de Error"); 
