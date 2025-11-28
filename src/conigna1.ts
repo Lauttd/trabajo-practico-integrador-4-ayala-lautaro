@@ -20,8 +20,8 @@ interface Product {
   price: number
 }
 
-const myProdcut : Product {
-    name: Minecraft,
-    price: number
+const myProdcut : Product = {
+    name: "Minecraft",
+    price: 16000
 }
 
