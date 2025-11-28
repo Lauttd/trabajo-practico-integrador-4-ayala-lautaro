@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let orderStatus; //tipo literal
 orderStatus = "pending";
 console.log(orderStatus);
@@ -19,4 +17,5 @@ function logMessage(level, message) {
 logMessage(logLevel.Info, "Mensaje informativo");
 logMessage(logLevel.Warning, "Mensaje de advertencia");
 logMessage(logLevel.Error, "Mensaje de Error");
+export {};
 //# sourceMappingURL=consigna3.js.map

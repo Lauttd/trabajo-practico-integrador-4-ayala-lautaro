@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 const productName = "Leche serenito";
 console.log(productName);
 const productPrice = 300;
@@ -13,4 +11,5 @@ const myProdcut = {
     name: "Minecraft",
     price: 16000
 };
+export {};
 //# sourceMappingURL=conigna1.js.map

@@ -1,5 +1,3 @@
-
-
 const productName: string = "Leche serenito"
 console.log(productName)
 
